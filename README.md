@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Some Exciting things
-💬 Ask me about GitHub
-🤔 I’m looking for help with Advance GitHub Features
+* 🔭 I’m currently working on Some Exciting things
+* 💬 Ask me about GitHub
+* 🤔 I’m looking for help with Advance GitHub Features
 
 <!--
 **Pavan-Bathieni/Pavan-Bathieni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
