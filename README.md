@@ -1,5 +1,5 @@
 Hi there 👋
-**Pavan-Bathieni/Pavan-Bathieni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Pavan-Bathieni/Pavan-Bathieni** 
 - 🔭 I’m currently working on Some Exciting things
 - 🌱 I’m currently learning GitHub
 - 🤔 I’m looking for help with Advance GitHub Features
